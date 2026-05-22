@@ -1,0 +1,6 @@
+Q1 – What challenges did you face when using the native http module that Express.js helped you solve?
++ 
+Q2 – How does Express simplify route handling compared to the native HTTP server?
++ 
+Q3 – What does middleware mean in Express, and how would you replicate similar behavior using the native module?
++ 
